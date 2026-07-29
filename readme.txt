@@ -87,7 +87,7 @@ Only the minimal references required for payment matching and status updates are
 
 = Which payment methods are supported? =
 
-Any ifthenpay method attached to your Gateway Key, including Multibanco, MB WAY, Payshop, Credit Card, Cofidis, Google Pay, Apple Pay, and Pix.
+Any ifthenpay method attached to your Gateway Key, including Multibanco, MB WAY, Payshop, Credit Card, Google Pay, Apple Pay, and Pix.
 
 = How does the payment process work? =
 

@@ -117,7 +117,6 @@ Any ifthenpay method attached to your Gateway Key, including:
 * MB WAY
 * Payshop
 * Credit Card
-* Cofidis
 * Google Pay
 * Apple Pay
 * Pix
